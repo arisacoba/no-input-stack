@@ -1,0 +1,12 @@
+name: rails-stack-template
+description: This is a stack for deploying a Rails Apps + MYSQL DB to Azure
+branding:
+  icon: 'activity'
+  color: 'blue'
+
+configs:
+  repo-metadata:
+    parameters:
+      topics:
+      - rails
+      - sql
